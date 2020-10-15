@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 一个有趣的大姐姐
 
 # Organizations/Affiliations
 organizations:
